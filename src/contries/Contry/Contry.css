@@ -1,0 +1,9 @@
+.contary {
+  background-color: antiquewhite;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.contary img {
+  width: 50%;
+}
